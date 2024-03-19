@@ -2,6 +2,8 @@
 
 A design component to reproduce creating the github style commit graph for instant visual feedback.
 
+- [Inspo](https://codepen.io/ire/pen/Legmwo)
+
 ## Example
 
 ![](assets/graph.png)
